@@ -9,7 +9,7 @@
 
 ## 起動方法
 ```
-foreman start
+bundle ex foreman start
 ```
 その後　http://localhost:5000/ に接続
 
